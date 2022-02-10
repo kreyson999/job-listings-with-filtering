@@ -1,0 +1,13 @@
+.chip {
+  box-sizing: border-box;
+  border-radius: 1rem;
+  padding: 0.3rem 0.5rem;
+  font-weight: 700;
+  font-size: 0.7rem;
+  color: white;
+  text-transform: uppercase;
+  margin-right: 0.5rem;
+}
+.chip:last-child {
+  margin-right: 0;
+}
